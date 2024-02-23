@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    background-color: #68b0ab;
+    font-family: Arial;
+
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin-bottom: 20px;
+    width: 80%;
+    color: #faf3dd
+
+
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    color: #faf3dd
+}
+
+img {
+    vertical-align: top;
+    max-width: 100px;
+    height: auto;
+}
+
+.indented {
+    padding-left: 20%;
+    color: #faf3dd
+}
