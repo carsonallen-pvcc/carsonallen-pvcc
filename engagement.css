@@ -60,6 +60,11 @@ iframe {
 }
 
 .image {
-    max-width: 200px;
+    width: 200px;
+    height: auto;
+}
+
+.img img{
+    max-with: 200%;
     height: auto;
 }
