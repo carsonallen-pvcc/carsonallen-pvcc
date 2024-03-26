@@ -59,12 +59,7 @@ iframe {
     padding: 10px;
 }
 
-.image {
-    width: 50%;
-    height: auto;
-}
-
 .image img {
-    max-width: 100%;
+    width: 200px;
     height: auto;
 }
