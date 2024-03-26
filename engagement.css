@@ -54,10 +54,16 @@ nav ul li a {
     margin-bottom: 15px;
 }
 
-iframe {
-    margin-top: 100px;
-    padding: 10px;
+.form {
+    display: flex;
+    justify-content: centr;
+    align-items: center;
+    height: 100vh;
 }
+
+.form iframe {
+    width: 800px;
+    height: 600px;
 
 .image img {
     width: 200px;
