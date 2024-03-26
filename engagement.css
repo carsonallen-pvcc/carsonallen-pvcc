@@ -65,6 +65,6 @@ iframe {
 }
 
 .image img {
-    max-with: 200%;
+    max-width: 200%;
     height: auto;
 }
