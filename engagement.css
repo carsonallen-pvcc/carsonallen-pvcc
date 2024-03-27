@@ -68,7 +68,12 @@ nav ul li a {
     height: 100%;
 }
 
-.image img {
+.image {
     width: 200px;
+    height: auto;
+}
+
+.image img {
+    width: 100%;
     height: auto;
 }
