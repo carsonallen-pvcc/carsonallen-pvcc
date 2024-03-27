@@ -55,7 +55,7 @@ nav ul li a {
 }
 
 .form {
-    display: flex;
+    display: fixed;
     justify-content: centr;
     align-items: center;
     height: 100vh;
